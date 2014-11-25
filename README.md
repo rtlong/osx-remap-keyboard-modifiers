@@ -4,6 +4,8 @@ This is a tool to set keyboard modifiers on OSX. Intended for use in "sane
 defaults" scripts and what-not to disable the horrific caps lock key and
 repurpose it as `INSERT YOUR FAVORITE MOD KEY HERE`
 
+WARNING: This is not well tested. Use at your own risk.
+
 ## Install
 
 Assuming you have a Go development environment set up,
