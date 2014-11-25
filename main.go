@@ -69,6 +69,7 @@ func main() {
 
 			fmt.Println("      remapped successfully")
 		}
+		fmt.Println("\nYou'll need to logout before changes will take effect.")
 	} else {
 		fmt.Println("Found no keyboards!")
 	}
