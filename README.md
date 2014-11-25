@@ -25,3 +25,4 @@ osx-remap-keyboard-modifiers caps:control_l
 ## Contributions
 
 PRs and Issues are welcome!
+

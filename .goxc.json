@@ -1,0 +1,20 @@
+{
+	"ArtifactsDest": "./dist",
+	"TasksExclude": [
+		"downloads-page",
+		"deb-dev",
+		"deb",
+		"archive-zip",
+		"copy-resources"
+	],
+	"Os": "darwin",
+	"ResourcesInclude": "foo",
+	"PackageVersion": "0.0.1",
+	"TaskSettings": {
+		"archive-tar-gz": {
+			"include-top-level-dir": "!darwin",
+			"platforms": "darwin"
+		}
+	},
+	"ConfigVersion": "0.9"
+}
